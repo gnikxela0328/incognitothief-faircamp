@@ -1,0 +1,36 @@
+title: incognitothief
+base_url: https://thief.whereditgo.diamonds/
+language: en
+
+embedding: disabled
+m3u: enabled
+more_label: About
+
+release_downloads:
+- flac
+- mp3
+- opus
+
+
+favicon: static/favicon.ico
+
+-- synopsis
+Rapper
+-- synopsis
+
+copy_link: disabled
+m3u: disabled
+opengraph: enabled
+feeds: disabled
+
+
+theme:
+accent_brightening = 98
+accent_chroma = 100
+background_alpha = 36
+base = light
+base_chroma = 59
+base_hue = 304
+dynamic_range = 34
+background_image = static/angel.png
+custom_font = static/GajrajOne-Regular.woff

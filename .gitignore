@@ -1,0 +1,15 @@
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.opus
+*.wav
+
+.faircamp_build
+.faircamp_cache
+
+.DS_Store
+
+
