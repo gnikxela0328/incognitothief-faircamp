@@ -30,5 +30,5 @@ base = light
 base_chroma = 59
 base_hue = 304
 dynamic_range = 34
-background_image = static/banner.png
+background_image = static/bg.png
 custom_font = static/GajrajOne-Regular.woff
