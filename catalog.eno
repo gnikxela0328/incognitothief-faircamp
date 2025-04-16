@@ -6,11 +6,6 @@ embedding: disabled
 m3u: enabled
 more_label: About
 
-release_downloads:
-- flac
-- mp3
-- opus
-
 
 favicon: static/favicon.ico
 
@@ -23,6 +18,9 @@ m3u: disabled
 opengraph: enabled
 feeds: disabled
 
+home_image:
+description = Banner
+file = static/header.png
 
 theme:
 accent_brightening = 98
@@ -32,5 +30,5 @@ base = light
 base_chroma = 59
 base_hue = 304
 dynamic_range = 34
-background_image = static/angel.png
+background_image = static/banner.png
 custom_font = static/GajrajOne-Regular.woff
